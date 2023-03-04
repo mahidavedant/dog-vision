@@ -27,4 +27,8 @@ Some information about the data
 - There are about ~10,000 images in training set (images with labels)
 - There are about ~10,000 images in testing dataset (images without labels)
 
+## Transfer Learning
+> In this project, as part of transfer learning method, `MobileNet V2` pre-trained classification model is used for classification.
+
+## Predictions
 > Prediction files can be found here (these files are > 25mb in size): https://www.mediafire.com/folder/zu9i2g50rdyvl/predictions
